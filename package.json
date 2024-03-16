@@ -1,0 +1,28 @@
+{
+  "name": "multi-tieuvi7850-2",
+  "version": "1.0.4",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tieuvi7850/multi-tieuvi7850-2.git"
+  },
+  "dependencies": {
+    "multi-tieuvi7850": "1.1.3",
+    "tinhtong2sobangjs-lanha5886": "1.0.5",
+    "thanhngoc44-synnn": "1.0.45"
+
+    },
+ "homepage": "https://github.com/tieuvi7850/multi-tieuvi7850-2",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "tieuvi7850",
+  "license": "MIT"
+}
